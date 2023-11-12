@@ -15,7 +15,7 @@ public class es2 {
 				matrice[i][j]= (int) (Math.random()*10);
 				if(a == matrice[i][j])
 				{
-					cont += 2;
+					cont += 1;
 				}
 			}
 		}
