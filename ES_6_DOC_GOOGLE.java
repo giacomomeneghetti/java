@@ -7,7 +7,7 @@ public class ES_6_DOC_GOOGLE {
 		Scanner input = new Scanner(System.in);
 		int mat[][] = new int[5][5];
 		boolean a = true;
-		for (int i=0; i<mat.length; i++)
+		for (int i=1; i<mat.length; i++)
 		{
 			for (int j=0; j<mat.length; j++)
 			{
