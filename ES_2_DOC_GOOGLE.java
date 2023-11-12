@@ -6,7 +6,7 @@ public class ES_3_DOC_GOOGLE {
 		// TODO Auto-generated method stub
 		int[][] matrice = new int[10][10];
 		int cont = 0;
-		int a = 0;
+		int a = 2;
 		//riempo la matrice a mano e verifico se il numero zaero è dentro la matrice
 		for (int i=0; i<matrice.length; i++)
 		{
